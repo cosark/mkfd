@@ -106,6 +106,10 @@ docker run -p 5000:5000 -v /local/mount/path:/app/configs \
 
 Alternatively, use [Autoheal](https://github.com/willfarrell/docker-autoheal) to automatically restart unhealthy containers in docker-compose setups.
 
+## ☁️ One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/mkfd/)
+
 ## 🔌 Chrome Extensions for Advanced Scraping
 
 Mkfd supports loading Chrome extensions when using advanced scraping mode (Playwright).
